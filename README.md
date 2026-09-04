@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-- 🎓 Final-year B.Tech CS (AI) student @ **KIET Group of Institutions**, Ghaziabad
+- 🎓 Pre final-year B.Tech CSE (AIML) student @ **KIET Group of Institutions**, Ghaziabad
 - 📊 Building a **Data Analyst** portfolio — Python, SQL, Power BI & Tableau, one dataset at a time
 - 💻 Also shipping **full-stack (MERN)** projects on the side, AI features included
 - 🎤 **Community Manager**, Technocrats Club @ KIET — helping run Technovate / Foundation Day
